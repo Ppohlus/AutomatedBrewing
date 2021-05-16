@@ -1,0 +1,10 @@
+C:\Users\Paul\source\repos\FactorumGUI\FactorumGUI\obj\Debug\FactorumGUI.vbprojAssemblyReference.cache
+C:\Users\Paul\source\repos\FactorumGUI\FactorumGUI\obj\Debug\FactorumGUI.Form1.resources
+C:\Users\Paul\source\repos\FactorumGUI\FactorumGUI\obj\Debug\FactorumGUI.Resources.resources
+C:\Users\Paul\source\repos\FactorumGUI\FactorumGUI\obj\Debug\FactorumGUI.vbproj.GenerateResource.cache
+C:\Users\Paul\source\repos\FactorumGUI\FactorumGUI\obj\Debug\FactorumGUI.vbproj.CoreCompileInputs.cache
+C:\Users\Paul\source\repos\FactorumGUI\FactorumGUI\bin\Debug\FactorumGUI.exe.config
+C:\Users\Paul\source\repos\FactorumGUI\FactorumGUI\bin\Debug\FactorumGUI.exe
+C:\Users\Paul\source\repos\FactorumGUI\FactorumGUI\bin\Debug\FactorumGUI.pdb
+C:\Users\Paul\source\repos\FactorumGUI\FactorumGUI\obj\Debug\FactorumGUI.exe
+C:\Users\Paul\source\repos\FactorumGUI\FactorumGUI\obj\Debug\FactorumGUI.pdb
